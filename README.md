@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaqasAyubShah
 - 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Difi
+- 🌱 I’m currently learning Binance smart chain development
 - 💞️ I’m looking to collaborate on Different NFT projects
 - 📫 Reach me on twitter@smwaqas09
 
