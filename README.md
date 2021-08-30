@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Binance smart chain development
 - 💞️ I’m looking to collaborate on Different NFT projects
-- 📫 Reach me on twitter@smwaqas09
+- 📫 Reach me on twitter@syedwaqashere
 
 <!---
 WaqasAyubShah/WaqasAyubShah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
