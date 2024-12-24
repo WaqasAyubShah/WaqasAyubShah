@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaqasAyubShah
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Binance smart chain development
-- 💞️ I’m looking to collaborate on Different NFT projects
+- 👀 I’m interested in Blockchain Development/Collaboration. 
+- 🌱 I’m currently learning RUST smart chain development
+- 💞️ I’m looking to collaborate on Different Blockchain projects
 - 📫 Reach me on twitter@syedwaqashere
 
 <!---
