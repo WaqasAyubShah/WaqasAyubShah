@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaqasAyubShah
 - 👀 I’m interested in Blockchain Development/Collaboration. 
-- 🌱 I’m currently learning RUST smart chain development
+- 🌱 I’m currently learning RUST smart contract development
 - 💞️ I’m looking to collaborate on Different Blockchain projects
 - 📫 Reach me on WhatsApp: 0092 345 9704219
 
